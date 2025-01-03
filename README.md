@@ -33,26 +33,16 @@ A machine learning model using **transfer learning** to recreate artistic styles
 ## 🛠 Skills
 
 ### **Programming & Web Development**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![OOP](https://img.shields.io/badge/-OOP-008C45?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  ![OOP](https://img.shields.io/badge/-OOP-008C45?logo=java&logoColor=white)
 
 ### **Machine Learning & NLP**  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
-![NLP](https://img.shields.io/badge/-NLP-3E9E9D?logo=elastic&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  ![NLP](https://img.shields.io/badge/-NLP-3E9E9D?logo=elastic&logoColor=white)  ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 
 ### **Finance**  
 ![Finance](https://img.shields.io/badge/-Finance-00A1A7?logo=chart&logoColor=white)  
 Financial Analysis | Money Management | Personal Finance
 
----
 
-## 🌱 Interests
-- Decoding Business Models | Marketing | AI in Finance | Web Development
-
----
 
 ## 📈 Let's Collaborate!
 I'm always open to **collaborating on exciting projects** and **learning opportunities**. If you have an idea or want to discuss, feel free to reach out!
