@@ -36,7 +36,9 @@ A machine learning model using **transfer learning** to recreate artistic styles
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  ![OOP](https://img.shields.io/badge/-OOP-008C45?logo=java&logoColor=white)
 
 ### **Machine Learning & NLP**  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  ![NLP](https://img.shields.io/badge/-NLP-3E9E9D?logo=elastic&logoColor=white)  ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+!![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-007ACC?logo=python&logoColor=white)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) [NLP](https://img.shields.io/badge/-NLP-3E9E9D?logo=elastic&logoColor=white)  ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) 
+
 
 ### **Finance**  
 ![Finance](https://img.shields.io/badge/-Finance-00A1A7?logo=chart&logoColor=white)  
