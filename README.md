@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yogesh Chebrolu
 
-🎓 **Bachelor's in Computer Science** | Rajiv Gandhi University of Knowledge Technologies (RGUKT), RK Valley | GPA: 8.9/10 | Expected Graduation: 2026  
+🎓 **Bachelor's in Computer Science** | Rajiv Gandhi University of Knowledge Technologies (RGUKT), RK Valley | GPA: 8.9/10 | Graduation: 2026  
 📫 **Email:** chebroluyogesh25@gmail.com 
 🌐 **LinkedIn:** [https://www.linkedin.com/in/yogesh-chebrolu/](#)  
 
