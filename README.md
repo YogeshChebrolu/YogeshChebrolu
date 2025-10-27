@@ -14,13 +14,13 @@ Developed multi-modal RAG architectures and Model Context Protocol (MCP) for LLM
 
 ## 🚀 Featured Projects
 
-**[Multi-Modal YouTube RAG Chrome Extension](https://github.com/YogeshChebrolu)**  
+**[Multi-Modal YouTube RAG Chrome Extension](https://www.linkedin.com/feed/update/urn:li:activity:7382133904889163776/)**  
 Custom RAG system combining transcript analysis with frame-synchronized visual retrieval for contextually rich AI responses with diagrams and proofs.
 
-**[English-to-Italian Transformer](https://github.com/YogeshChebrolu)**  
+**[Attention is all you need implementation](https://github.com/YogeshChebrolu/Transformers-Implementation-in-PyTorch)**  
 Implemented Transformer architecture from scratch in PyTorch with custom multi-head attention, positional encoding, and optimized training pipeline.
 
-**[Intelligent Code Documentation RAG](https://github.com/YogeshChebrolu)**  
+**[Intelligent Code Documentation RAG](https://github.com/YogeshChebrolu/RAG_ON_CODE)**  
 Hybrid storage with Pinecone and NoSQL for efficient code-text retrieval, reducing developer onboarding time with LLM-powered contextual analysis.
 
 ## 🛠️ Skills & Tools
@@ -50,17 +50,11 @@ Hybrid storage with Pinecone and NoSQL for efficient code-text retrieval, reduci
 
 ## 🏆 Repositories I'm Proud Of
 
-[![YouTube RAG Frontend](https://github-readme-stats.vercel.app/api/pin/?username=YogeshChebrolu&repo=yt_rag_frontend&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/YogeshChebrolu/yt_rag_frontend)
-
-[![YouTube RAG Backend](https://github-readme-stats.vercel.app/api/pin/?username=Prahaladha-Reddy&repo=YT_RAG&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Prahaladha-Reddy/YT_RAG)
-
-[![Transformers Implementation](https://github-readme-stats.vercel.app/api/pin/?username=YogeshChebrolu&repo=Transformers-Implementation-in-PyTorch&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/YogeshChebrolu/Transformers-Implementation-in-PyTorch)
-
----
-
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yogesh-chebrolu/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:chebroluyogesh25@gmail.com)
+
+[![YouTube RAG Frontend](https://github-readme-stats.vercel.app/api/pin/?username=YogeshChebrolu&repo=yt_rag_frontend&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/YogeshChebrolu/yt_rag_frontend) [![YouTube RAG Backend](https://github-readme-stats.vercel.app/api/pin/?username=Prahaladha-Reddy&repo=YT_RAG&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Prahaladha-Reddy/YT_RAG) [![Transformers Implementation](https://github-readme-stats.vercel.app/api/pin/?username=YogeshChebrolu&repo=Transformers-Implementation-in-PyTorch&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/YogeshChebrolu/Transformers-Implementation-in-PyTorch)
 
 </div>
+
+
+## 💬 Let's Connect [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yogesh-chebrolu/) [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:chebroluyogesh25@gmail.com)
