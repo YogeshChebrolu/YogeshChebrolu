@@ -50,11 +50,11 @@ Hybrid storage with Pinecone and NoSQL for efficient code-text retrieval, reduci
 
 ## 🏆 Repositories I'm Proud Of
 
-[![Multi-Modal YouTube RAG] Frontend(https://github-readme-stats.vercel.app/api/pin/?username=YogeshChebrolu&repo=multi-modal-youtube-rag&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/YogeshChebrolu/yt_rag_frontend)
+[![YouTube RAG Frontend](https://github-readme-stats.vercel.app/api/pin/?username=YogeshChebrolu&repo=yt_rag_frontend&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/YogeshChebrolu/yt_rag_frontend)
 
-[![Multi-Modal YouTube RAG] Backend(https://github-readme-stats.vercel.app/api/pin/?username=YogeshChebrolu&repo=multi-modal-youtube-rag&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Prahaladha-Reddy/YT_RAG)
+[![YouTube RAG Backend](https://github-readme-stats.vercel.app/api/pin/?username=Prahaladha-Reddy&repo=YT_RAG&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Prahaladha-Reddy/YT_RAG)
 
-[![Implementation of Attention is all you need](https://github-readme-stats.vercel.app/api/pin/?username=YogeshChebrolu&repo=transformer-translation&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/YogeshChebrolu/Transformers-Implementation-in-PyTorch)
+[![Transformers Implementation](https://github-readme-stats.vercel.app/api/pin/?username=YogeshChebrolu&repo=Transformers-Implementation-in-PyTorch&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/YogeshChebrolu/Transformers-Implementation-in-PyTorch)
 
 ---
 
