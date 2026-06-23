@@ -5,7 +5,7 @@ AI Developer specializing in building intelligent, multi-modal AI systems and ag
 ## 💼 Experience
 
 **AI Engineering Intern** @ Kairos Computer  
-*July 2025 - Present*  
+*July 2025 - March 2026*  
 Building an AI agent automation platform with Python FastAPI backend and TypeScript React frontend. Implementing OOP modules, AWS Lambda deployments, and CI/CD pipelines.
 
 **AI Research Intern** @ Stealth Startup (Educational AI Platform)  
