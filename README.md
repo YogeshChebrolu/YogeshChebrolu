@@ -48,13 +48,4 @@ Hybrid storage with Pinecone and NoSQL for efficient code-text retrieval, reduci
 
 </div>
 
-## 🏆 Repositories I'm Proud Of
-
-<div align="center">
-
-[![YouTube RAG Frontend](https://github-readme-stats.vercel.app/api/pin/?username=YogeshChebrolu&repo=yt_rag_frontend&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/YogeshChebrolu/yt_rag_frontend) [![YouTube RAG Backend](https://github-readme-stats.vercel.app/api/pin/?username=Prahaladha-Reddy&repo=YT_RAG&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Prahaladha-Reddy/YT_RAG) [![Transformers Implementation](https://github-readme-stats.vercel.app/api/pin/?username=YogeshChebrolu&repo=Transformers-Implementation-in-PyTorch&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/YogeshChebrolu/Transformers-Implementation-in-PyTorch)
-
-</div>
-
-
 ## 💬 Let's Connect [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yogesh-chebrolu/) [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:chebroluyogesh25@gmail.com)
