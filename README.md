@@ -1,8 +1,8 @@
 # Hi, I'm Yogesh 👋
 
-AI Engineer building multi-modal AI systems and agentic workflows. Currently **AI Engineering Intern @ [Kairos Computer](https://kairos.computer)**, working on an agent automation platform. Previously built multi-modal RAG and MCP architectures for an educational AI platform.
+AI Engineer building multi-modal AI systems and agentic workflows. I mostly automate my own life with them.
 
-Find me on [LinkedIn](https://linkedin.com/in/yogesh-chebrolu/) or reach out at [chebroluyogesh25@gmail.com](mailto:chebroluyogesh25@gmail.com).
+Say "hi" on [X](https://x.com/yogesh_chebrolu) and [LinkedIn](https://linkedin.com/in/yogesh-chebrolu/), or reach out at [chebroluyogesh25@gmail.com](mailto:chebroluyogesh25@gmail.com).
 
 ## 🚀 Featured Projects
 
@@ -13,8 +13,20 @@ Find me on [LinkedIn](https://linkedin.com/in/yogesh-chebrolu/) or reach out at 
 
 ## 🚧 Currently Building
 
-- **[in-trust](https://github.com/YogeshChebrolu/in-trust)** — An honest AI insurance advisor for India. Explains health & life cover in plain language, recommends what actually fits — and tells you when *not* to buy. Next.js 16 · Convex · Hono on Bun · AI SDK.
-- **[fintel-agent](https://github.com/YogeshChebrolu/fintel-agent)** · [live](https://fintel-agent-web.vercel.app) — A personal finance AI agent that streams market-aware insights. Next.js 16 · Convex · Hono on Bun.
+- **[in-trust](https://github.com/YogeshChebrolu/in-trust)** — An honest AI insurance advisor for India. Explains health & life cover in plain language, recommends what actually fits — and tells you when *not* to buy.<br>*Next.js 16 · Convex · Hono on Bun · AI SDK*
+- **[fintel-agent](https://github.com/YogeshChebrolu/fintel-agent)** · [live](https://fintel-agent-web.vercel.app) — A personal finance AI agent that streams market-aware insights.<br>*Next.js 16 · Convex · Hono on Bun*
+
+## 💼 Experience
+
+**AI Engineering Intern** · [Kairos Computer](https://kairos.computer) · Jul 2025 – Mar 2026
+- Built **Sandbox Agents** — agents that control a browser and take autonomous actions to automate repetitive tasks
+- Worked on **agent evals & benchmarking** and an **Email Agent**
+- *TypeScript · Python · FastAPI · Postgres*
+
+**AI Research Intern** · Stealth Startup (Educational AI) · Mar 2025 – Jun 2025
+- Built **MCP clients for Claude Desktop**
+- Built a **video pipeline** to process YouTube videos
+- *LangGraph · LangChain · FastMCP · Pydantic · RAG*
 
 ## 🛠️ Technical Skills
 
